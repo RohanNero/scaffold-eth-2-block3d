@@ -1,11 +1,11 @@
-# 🏗 Scaffold-ETH 2
+# 🏗 Scaffold-ETH 2 Block3d
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
 </h4>
 
-🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts. **This fork contains [block3d](https://youtu.be/A46L7UAZmUY?si=mumUd2YBWCFWjsRu), an open-source toolkit for restricting the addresses that are allowed to view your app.**
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
 
